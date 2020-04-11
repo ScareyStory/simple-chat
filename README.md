@@ -1,5 +1,3 @@
-# simple-chat
-
 These programs assume that the user has access to OSU's flip3 network
 If you do not have access, change the HOST name in the code from flip3 to a host
 of your choice. 'localhost' will allow you to communicate on your own machine.
@@ -18,9 +16,10 @@ Next compile chatclient.c by typing "make" on the command line
 
 then run the client by typing:
 
-./chatclient flip3 <port>   <--- SAME PORT AS SERVER
+./chatclient <serverhost> <port>   <--- SAME PORT AS SERVER
 
-NOTE: Use of the argument flip3 is referenced at the top of this file
+NOTE: 
+the server host argument needs to be the name of the host that the server is running one
 
 
 The client sends the first message and then server is prompted to respond
