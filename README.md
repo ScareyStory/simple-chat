@@ -1,5 +1,4 @@
 These programs are most effective when ran in separate tabs/windows
-To run in the same window the background process key '&' must be used
 
 First navigate to the folder where you have saved these files 
 
