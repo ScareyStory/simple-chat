@@ -1,7 +1,3 @@
-These programs assume that the user has access to OSU's flip3 network
-If you do not have access, change the HOST name in the code from flip3 to a host
-of your choice. 'localhost' will allow you to communicate on your own machine.
-
 These programs are most effective when ran in separate tabs/windows
 To run in the same window the background process key '&' must be used
 
