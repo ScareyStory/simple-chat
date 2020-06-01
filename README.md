@@ -1,3 +1,5 @@
+# simple-chat
+
 These programs are most effective when ran in separate tabs/windows
 
 First navigate to the folder where you have saved these files 
@@ -13,7 +15,7 @@ then run the client by typing:
 
 ./chatclient <serverhost> <port>   <--- SAME PORT AS SERVER
 
-NOTE: 
+## NOTE: 
 the server host argument needs to be the name of the host that the server is running one
 
 
