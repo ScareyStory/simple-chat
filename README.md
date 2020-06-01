@@ -15,8 +15,7 @@ then run the client by typing:
 
 ./chatclient <serverhost> <port>   <--- SAME PORT AS SERVER
 
-## NOTE: 
-the server host argument needs to be the name of the host that the server is running one
+### NOTE: the server host argument needs to be the name of the host that the server is running one
 
 
 The client sends the first message and then server is prompted to respond
